@@ -1,0 +1,93 @@
+.imagem1, .imagem2 {
+    position: absolute; 
+    margin-top: -10px;
+    
+  }
+  
+  .imagem1 {
+    z-index: -1; 
+  }
+ 
+  .imagem2 {
+    z-index: -1; 
+    width:360px ;
+    height: 800px;
+  }
+
+  .logo1, .nome2{
+    margin-top: 30px;
+    margin-left: 20px;
+  }
+
+  .acesse{
+    margin-top: 110px;
+    margin-left: 20px;
+    
+  }
+  .bio{
+    margin-top: 30px;
+    margin-left: 20px;
+  }
+  .email{
+    margin-top: 70px;
+    margin-left: 30px;
+    
+  }
+  .line{
+    margin-left: 40px;
+  }
+ 
+.container {
+    text-align: center;
+    margin-top: -42px;
+    margin-left: 0px;
+    
+}
+input {
+  padding: 2px;
+  margin-right: 10px;
+  background: transparent;
+  border: none;
+  outline: none;
+  color: white;
+}
+
+::placeholder{
+  color: white;
+}
+
+
+.cadeado{
+  margin-top: -130px;
+  margin-left: 30px;
+}
+.linha{
+  margin-left: -8px;
+  margin-left: 35px;
+} 
+.container1{
+
+  margin-top: -39px;
+  margin-left: 60px;
+
+}
+.retangulo3{
+  margin-top: 70px;
+  margin-left: 12px;
+}
+.entrar{
+  margin-top: -40px;
+  margin-left: 70px;
+   color: orange;
+}
+button {
+  
+  cursor: pointer;
+  margin-top:150px ;
+  margin-left:-10px ;
+  width: 220px;
+  height: 50px;
+  background-color: aliceblue;
+  border: 1px ;
+ 
+}

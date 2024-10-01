@@ -1,0 +1,43 @@
+.imagem1, .imagem2 {
+    position: absolute; 
+    margin-top: -80px;
+  }
+  
+  .imagem1 {
+    z-index: -1; 
+  }
+ 
+  .imagem2 {
+    z-index: -1; 
+  }
+  .logo{
+    width: 194px;
+    height: 196px;
+    flex-shrink: 0;
+    z-index: -1 ;
+    margin-top: 30px;
+    margin-left: 40px ;
+  }
+  .tony{
+    margin-top: -140px;
+    margin-left: 150px ;
+  }
+  .bio{
+    width: 256px;
+    height: 99px;
+    flex-shrink: 0;
+    margin-top: 200px;
+    margin-left: 10px;
+  }
+  .letras{
+    margin-top: 30px;
+    margin-left: 10px;
+  }
+  .botao{
+    margin-top: 90px;
+    margin-left: 20px;
+  }
+  .botao1{
+    margin-top: -40px;
+    margin-left: 120px;
+  }
